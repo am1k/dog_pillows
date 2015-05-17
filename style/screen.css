@@ -1,0 +1,976 @@
+/*@media screen and (max-width: 1380px) {*/
+    /*.color-material-img img {*/
+        /*position: absolute;*/
+        /*max-width: 1256px;*/
+        /*height: 589px;*/
+        /*left: 0%;*/
+    /*}*/
+    /*.pills-img {*/
+        /*max-width: 450px;*/
+        /*right: -3%;*/
+        /*top: -18%;*/
+    /*}*/
+    /*.first-info, .second-info {*/
+        /*position: inherit;*/
+        /*text-align: center;*/
+        /*right: 0;*/
+    /*}*/
+    /*.info-offer-img {*/
+        /*max-width: 400px;*/
+        /*right: -46%;*/
+    /*}*/
+    /*.offer-img {*/
+        /*max-width: 400px;*/
+        /*right: -5%;*/
+    /*}*/
+    /*.pillows-list-img img {*/
+        /*position: absolute;*/
+        /*height: 329px;*/
+        /*max-width: 250px;*/
+        /*left: 0%;*/
+        /*top: 3%;*/
+    /*}*/
+    /*#vidwrap-two {*/
+        /*padding: 0 100px;*/
+    /*}*/
+    /*.dog-sofa-img img {*/
+        /*position: absolute;*/
+        /*width: 100%;*/
+        /*height: 600px;*/
+        /*left: 0;*/
+    /*}*/
+    /*.decorative-pills-img img {*/
+        /*position: absolute;*/
+        /*max-width: 1228px;*/
+        /*height: 778px;*/
+        /*left: 0;*/
+    /*}*/
+    /*.two-dogs-img img {*/
+        /*width: 100%;*/
+        /*position: absolute;*/
+        /*left: 0;*/
+    /*}*/
+    /*.sofa-block-img {*/
+        /*left: -5%;*/
+    /*}*/
+    /*.offer-img {*/
+        /*max-width: 300px;*/
+        /*right: 0%;*/
+    /*}*/
+    /*.info-offer-img {*/
+        /*max-width: 350px;*/
+        /*right: -41%;*/
+    /*}*/
+    /*.color-material-img img {*/
+        /*position: absolute;*/
+        /*width: 1150px;*/
+        /*height: 589px;*/
+        /*left: 0%;*/
+    /*}*/
+    /*.dog-sofa-img img {*/
+        /*position: absolute;*/
+        /*width: 1150px;*/
+        /*height: 600px;*/
+        /*left: 0;*/
+    /*}*/
+    /*.decorative-pills-img img {*/
+        /*position: absolute;*/
+        /*max-width: 1150px;*/
+        /*left: 0;*/
+    /*}*/
+    /*.pillows-sell {*/
+        /*width: 100%;*/
+        /*left: 0;*/
+    /*}*/
+/*}*/
+/*@media screen and (max-width: 1250px) {*/
+    /*.sofa-block-img {*/
+        /*max-width: 600px;*/
+        /*position: absolute;*/
+        /*left: 0;*/
+        /*top: -15%;*/
+    /*}*/
+/*}*/
+/*@media screen and (max-width: 1270px) {*/
+    /*.pills-img {*/
+        /*max-width: 350px;*/
+        /*right: 0;*/
+    /*}*/
+    /*.arrow-img {*/
+        /*max-width: 80px;*/
+        /*right: 3%;*/
+    /*}*/
+    /*.information-img img {*/
+        /*position: absolute;*/
+        /*height: 395px;*/
+        /*width: 395px;*/
+        /*top: -14%;*/
+        /*right: -2%;*/
+    /*}*/
+    /*.big-comfort {*/
+        /*padding-left: 15px;*/
+    /*}*/
+    /*.no-risk {*/
+        /*padding-left: 15px;*/
+    /*}*/
+/*}*/
+/*@media screen and (max-width: 1200px) {*/
+    /*.pillows {*/
+        /*width: 100%;*/
+    /*}*/
+    /*.bg-title img {*/
+        /*width: 100%;*/
+    /*}*/
+    /*.color-material-img img {*/
+        /*width: 100%;*/
+    /*}*/
+    /*.dog-sofa-img img {*/
+        /*width: 100%;*/
+        /*position: inherit;*/
+        /*height: inherit;*/
+    /*}*/
+    /*.decorative-pills-img img {*/
+        /*width: 100%;*/
+    /*}*/
+    /*.dog-in-bed-img img {*/
+        /*width: 100%;*/
+    /*}*/
+    /*.title-offer span {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.info-offer p {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.info-offer ul li p {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.info-offer-second ul li p {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.info-offer-img {*/
+        /*right: -50%;*/
+    /*}*/
+    /*.info-offer-third ul li p {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.content-quote span {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.stylish h1 {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.stylish p {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.stylish ul li {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.check-icon {*/
+        /*max-width: 25px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.picture-title {*/
+        /*font-size: 40px;*/
+    /*}*/
+    /*.priced-picture {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.priced-picture p.cursive {*/
+        /*font-size: 28px !important;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.pillows-quote {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.information {*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.personal-appreciation {*/
+        /*line-height: inherit !important;*/
+    /*}*/
+    /*.information div p.cursive {*/
+        /*line-height: inherit !important;*/
+    /*}*/
+    /*.when-add p {*/
+        /*line-height: inherit !important;*/
+    /*}*/
+    /*.when-add .info-important {*/
+        /*line-height: inherit !important;*/
+    /*}*/
+    /*.we-soon {*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.video-info {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.information-more {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.personal-appreciation p {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.information-img {*/
+        /*width: 100%;*/
+    /*}*/
+    /*.information-img {*/
+        /*width: 100%;*/
+        /*height: 100%;*/
+    /*}*/
+    /*.information-img img {*/
+        /*width: 100%;*/
+        /*height: 100%;*/
+        /*position: inherit;*/
+    /*}*/
+    /*.personal-appreciation .bold.title-underline {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.when-add p {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.material-info .bold-franklin {*/
+        /*line-height: normal;*/
+    /*}*/
+    /*.picture-title {*/
+        /*line-height: normal;*/
+    /*}*/
+    /*.big-comfort {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.pillows p {*/
+        /*line-height: normal;*/
+    /*}*/
+    /*.title-offer {*/
+        /*line-height: normal;*/
+    /*}*/
+    /*.no-risk p {*/
+        /*font-size: 32px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.sofa-block-img {*/
+        /*max-width: 600px;*/
+        /*position: relative;*/
+        /*left: 0;*/
+        /*float: left;*/
+    /*}*/
+    /*.bold-heavy{*/
+        /*font-size: 40px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.sofa-bold {*/
+        /*font-size: 28px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.sofa-block {*/
+        /*margin-bottom: 0;*/
+    /*}*/
+    /*.pills-img {*/
+        /*position: relative;*/
+        /*margin: 0 auto;*/
+    /*}*/
+    /*.offer-img {*/
+        /*max-width: 300px;*/
+        /*right: 0;*/
+        /*top: 20%;*/
+    /*}*/
+    /*.material-info {*/
+        /*font-size: 28px;*/
+        /*line-height: inherit;*/
+    /*}*/
+    /*.arrow-img {*/
+        /*max-width: 50px;*/
+        /*right: -4%;*/
+    /*}*/
+    /*.button-now-img {*/
+        /*max-width: 200px;*/
+    /*}*/
+    /*.man-with-dog-img{*/
+        /*height: inherit;*/
+    /*}*/
+    /*.man-with-dog-img img {*/
+        /*position: inherit;*/
+        /*width: 356px;*/
+        /*height: inherit;*/
+        /*top: 4%;*/
+        /*left: 0;*/
+    /*}*/
+    /*.no-risk-img {*/
+        /*position: relative;*/
+        /*width: 100% !important;*/
+        /*height: inherit;*/
+        /*left: 0;*/
+        /*top: 0;*/
+    /*}*/
+    /*.bed-price-img img {*/
+        /*position: relative;*/
+        /*width: 100%;*/
+        /*height: inherit;*/
+        /*top: 0;*/
+        /*left: 0;*/
+    /*}*/
+/*}*/
+/*@media screen and (max-width: 1090px) {*/
+    /*.info-offer-img {*/
+        /*width: 250px;*/
+        /*right: -40%;*/
+    /*}*/
+    /*.offer-img {*/
+        /*max-width: 250px;*/
+        /*right: 0%;*/
+        /*top: 20%;*/
+    /*}*/
+    /*.arrow-img {*/
+        /*display: none;*/
+    /*}*/
+    /*.price-block {*/
+        /*font-size: 25px;*/
+    /*}*/
+/*}*/
+@media screen and (max-width: 1210px) {
+    .price-block select {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    .second-info {
+        text-align: right;
+        right: 0;
+    }
+    .price-block {
+        margin-left: 0;
+    }
+    .bed-price-img img {
+        width: 510px;
+    }
+    .button-now {
+        margin-left: 0;
+    }
+    .price-view {
+        margin-left: 0;
+    }
+}
+@media screen and (max-width: 1040px) {
+    .pills-img {
+        right: -40px;
+    }
+    .offer-img {
+        max-width: 270px;
+        position: absolute;
+        right: -15px;
+        top: 103px;
+    }
+    .info-offer-img {
+        max-width: 300px;
+        right: -45%;
+        top: -6%;
+        position: absolute;
+    }
+    .information-img img {
+        position: absolute;
+        height: 338px;
+        width: 300px;
+        top: -47px;
+        right: -12%;
+    }
+}
+@media screen and (max-width: 992px) {
+    .pills-img {
+        max-width: 300px;
+        position: relative;
+        margin: 0 auto;
+        right: -3px;
+        top: -1px;
+    }
+    .pillows {
+        width: 100%;
+    }
+    .info-picture {
+        margin-top: 0;
+    }
+    .check-icon img {
+        position: relative;
+        width: 25px;
+        height: 25px;
+        left: 0;
+    }
+    .video-info {
+        line-height: normal;
+    }
+    .picture-title {
+        font-size: 32px;
+    }
+    .offer-img {
+        display: none;
+    }
+    .color-material {
+        height: inherit;
+    }
+    .first-info {
+        top: 0;
+    }
+    .color-material .adaptive-img.line-thin {
+        position: relative;
+    }
+    .color-material-img img {
+        position: relative;
+        height: inherit;
+        width: 100%;
+        left: 0;
+    }
+    .video-container {
+        padding-bottom: 52%;
+    }
+    .material-info {
+        position: relative;
+        top: 0;
+    }
+    .pillows-sell {
+        width: 100%;
+        left: 0;
+    }
+    .color-material-img {
+        height: inherit;
+    }
+    .dog-sofa-img {
+        height: inherit;
+    }
+    .decorative-pills-img {
+        height: inherit;
+    }
+    .decorative-pills-img img {
+        height: inherit;
+        width: 100%;
+        max-width: 100%;
+        position: relative;
+    }
+    .dog-in-bed-img {
+        height: inherit;
+    }
+    .dog-sofa-img img {
+        position: relative;
+        width: 100%;
+    }
+    .dog-in-bed-img img {
+        height: inherit;
+        position: relative;
+        width: 100%;
+        left: 0;
+        top: 0;
+    }
+    .information-img {
+        display: none;
+    }
+    .sofa-block-img {
+        position: relative;
+        max-width: 400px;
+        float: left;
+    }
+    .sofa-block {
+        margin-bottom: 0;
+    }
+    .bold-heavy {
+        text-align: center;
+        margin-top: 0;
+        margin-right: 0;
+        font-size: 50px;
+    }
+    .bg-title img {
+        width: 100%;
+        margin-left: 0;
+    }
+    .sofa-bold {
+        text-align: center;
+    }
+    .one-time-offer {
+         margin-bottom: 0;
+    }
+    .info-offer-img {
+        display: none;
+    }
+    .info-offer-second {
+        width: 100%;
+    }
+    .material-info {
+        line-height: 24px;
+        right: 0;
+    }
+    .info-offer {
+        width: 100%;
+    }
+    .pills-quote {
+        text-align: center;
+    }
+    .small-text {
+        text-align: center;
+    }
+    .stylish ul li {
+        padding-right: 5%;
+    }
+    .no-risk div:nth-of-type(1) {
+        width: 75%;
+    }
+    .two-dogs-img img {
+        width: 100%;
+        left: 0;
+        top: 0;
+        position: relative;
+    }
+    .pillows-list ul {
+        margin-left: 7%;
+    }
+    .pillows-list {
+        text-align: center;
+    }
+    .price-block {
+        margin-left: 0;
+    }
+    .pillows-list-img {
+        width: 60%;
+    }
+    .pillows-list-img img {
+        position: relative;
+    }
+    .bed-price-img {
+        margin-top: 10%;
+    }
+    .pillows-list-img img {
+        height: 250px;
+    }
+    #vidwrap {
+        padding: 0 50px;
+    }
+    #vidwrap-two {
+        padding: 0 50px;
+    }
+    .no-risk-img {
+        width: 100% !important;
+        top: 0;
+        right: 0;
+    }
+    .price-block select {
+        width: 81%;
+    }
+}
+@media screen and (max-width: 930px) {
+    .container {
+        width: 750px;
+    }
+    .sofa-block-img {
+        width: 300px;
+    }
+    .bold-heavy {
+        font-size: 45px;
+    }
+    .sofa-bold {
+        font-size: 30px;
+    }
+    .check-icon img {
+        top: 0;
+    }
+    .pillows-list-img {
+        width: 100%;
+    }
+    .pillows-list ul {
+        margin-top: 0;
+    }
+    .price-block select {
+        display: inline-block;
+        margin-bottom: 8px;
+        min-width: 100%;
+        margin-left: 3px;
+    }
+    .bed-price-img img {
+        width: 420px;
+        height: 300px;
+        top: 0;
+        left: 0;
+    }
+    .arrow-img {
+        display: none;
+    }
+}
+@media screen and (max-width: 767px) {
+    .container {
+        width: 100%;
+    }
+    .price-block {
+        margin-top: 0;
+    }
+    .row {
+     margin: 0;
+    }
+    .color-material-img img {
+        height: inherit;
+    }
+    .two-free-pillows, .title-price-block p {
+        font-size: 32px;
+        margin-left: 0;
+    }
+    .title-main span {
+        font-size: 32px;
+    }
+    .two-dogs-img {
+        height: inherit;
+    }
+    .two-dogs-img img {
+        position: relative;
+        height: inherit;
+    }
+    .info-offer {
+        padding-left: 15px;
+    }
+    .important-info {
+        font-size: 32px;
+    }
+    .we-soon {
+        font-size: 32px;
+    }
+    .button-now-img {
+        width: 35%;
+        max-width: 100%;
+    }
+    .big-comfort {
+        padding-left: 15px;
+    }
+    #vidwrap-two, #vidwrap {
+        padding: 0;
+    }
+    .video-container {
+        padding-bottom: 52%;
+    }
+    .video-container.second-video {
+        padding-bottom: 65%;
+    }
+    .sofa-block-img {
+    max-width: 100%;
+    }
+    .sofa-block h1 {
+     text-align: center;
+     font-size: 50px;
+    }
+    .sofa-bold {
+     text-align: center;
+    }
+    .info-offer-img {
+     position: relative;
+     margin: 0 auto;
+     right: 0;
+    }
+    .video-container {
+     padding-top: 0;
+    }
+    .arrow-img {
+     display: none;
+    }
+    .offer-img {
+     display: none;
+    }
+    .material-info {
+     position: relative;
+     text-align: center;
+    }
+    .no-risk-img {
+     max-width: 350px;
+     margin: 0 auto;
+    }
+    .first-info, .second-info {
+        font-size: 32px;
+    }
+    .info-picture {
+        height: inherit;
+    }
+    .third-info {
+        font-size: 32px;
+    }
+    .no-risk div:nth-of-type(1) {
+        width: 100% !important;
+        position: relative;
+    }
+    .bed-price-img img {
+        position: relative;
+        width: 100%;
+        height: 100%;
+    }
+    .third-info span {
+        padding-left: 0;
+    }
+    .no-risk div {
+        padding-left: 15px;
+    }
+    .button-now {
+        width: inherit;
+    }
+    .video-container.second-video {
+        padding-bottom: 75%;
+    }
+    .price-block select {
+        display: block;
+        margin-bottom: 19px;
+        padding: 12px;
+        min-width: 34%;
+        margin-left: 3px;
+    }
+    .no-thanks {
+        margin-left: 0;
+        text-align: center;
+        display: inherit;
+    }
+
+}
+@media screen and (max-width: 690px) {
+    .bold-heavy {
+        font-size: 34px;
+    }
+    .info-offer-third ul li:last-child {
+        padding-right: 0;
+    }
+    .quote {
+        margin-top: 0;
+    }
+    .sofa-bold {
+        font-size: 26px;
+    }
+    .price-block select {
+        margin: 10px;
+        padding: 5px;
+    }
+    .bg-title img {
+        display: none;
+    }
+    .picture-title {
+        margin-top: 0;
+    }
+    .pillows-list-img img {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 530px) {
+    .title-main span {
+        font-size: 28px;
+    }
+    .pills-list-img {
+        margin: 0 auto;
+        display: inherit;
+    }
+    .pills-list ul {
+        display: inherit;
+    }
+    .stylish ul li {
+        display: block;
+    }
+    .pills-list ul li {
+        padding: 0;
+        text-align: center;
+    }
+    .two-free-pillows {
+        font-size: 30px;
+    }
+    .man-with-dog-img img {
+        width: 100%;
+        left: 0;
+        position: relative;
+        top: 0;
+    }
+    .button-now-img {
+        width: 60%;
+    }
+    .important-info {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .important-info p:nth-of-type(1) {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .when-add .info-important {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .dog-sofa-img img {
+        height: inherit;
+    }
+    .pillows-list {
+        width: 100%;
+    }
+    .pillows-list ul {
+        margin-left: 0;
+    }
+    .pillows-quote {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 500px) {
+    .sofa-block-img {
+        width: 100%;
+    }
+    .video-info {
+        font-size: 34px;
+    }
+    .first-info {
+        position: relative;
+        text-align: center;
+    }
+    .second-info {
+        text-align: center;
+        position: relative;
+    }
+}
+@media screen and (max-width: 480px) {
+    .sofa-block .bold-italic {
+        position: relative;
+        text-align: center;
+        left: 0;
+    }
+    .when-add {
+        padding: 0;
+    }
+    .personal-appreciation {
+        padding: 0;
+    }
+    .information-more {
+        padding: 0;
+    }
+    .we-soon {
+        margin-right: 0;
+    }
+    .title-main span {
+        font-size: 24px;
+    }
+    .title-offer span {
+        line-height: inherit;
+    }
+    .pillows-list-img {
+        width: 100%;
+    }
+    .pillows-list-img img {
+        position: relative;
+        top: 3%;
+    }
+    .pillows-list ul {
+        width: 100%;
+    }
+    .pillows-list ul li {
+        padding: 0;
+        text-align: center;
+    }
+ .pills-list-img {
+    margin: 0 auto;
+    display: inherit;
+ }
+ .pills-list ul {
+    display: inherit;
+ }
+ .stylish ul li {
+    display: block;
+ }
+ .pills-list ul li {
+    padding: 0;
+    text-align: center;
+ }
+}
+@media screen and (max-width: 400px) {
+    .man-with-dog-img img{
+      width: 100%;
+    }
+    .personal-appreciation .bold.title-underline {
+        font-size: 24px;
+    }
+    .bg-title {
+        display: none;
+        max-width: 100%;
+    }
+    .button-now-img {
+        max-width: 100%;
+    }
+    .button-now-img {
+        width: 100%;
+    }
+    .picture-title {
+        margin-top: 0;
+    }
+    .pillows p {
+        font-size: 24px;
+    }
+    .small-text.franklin-cursive {
+        font-size: 20px !important;
+    }
+    body {
+        font-size: 24px;
+    }
+    .sofa-bold {
+        font-size: 24px;
+    }
+    .title-offer span {
+        font-size: 24px;
+    }
+    .info-offer p {
+        font-size: 24px;
+    }
+    .info-offer ul li p {
+        font-size: 24px;
+    }
+    .info-offer-second ul li p {
+        font-size: 24px;
+    }
+    .info-offer-third ul li p {
+        font-size: 24px;
+    }
+    .content-quote span {
+        font-size: 24px;
+    }
+    .stylish h1 {
+        font-size: 24px;
+    }
+    .stylish p {
+        font-size: 24px;
+    }
+    .stylish ul li {
+        font-size: 24px;
+    }
+    .material-info {
+        font-size: 24px;
+    }
+    .picture-title {
+        font-size: 24px;
+    }
+    .priced-picture {
+        font-size: 24px;
+    }
+    .information-more {
+        font-size: 24px;
+    }
+    .personal-appreciation p {
+        font-size: 24px;
+    }
+    .when-add p {
+        font-size: 24px;
+    }
+    .important-info {
+        margin-top: 0 !important;
+    }
+    .we-soon {
+        font-size: 24px;
+    }
+    .big-comfort {
+        font-size: 24px;
+    }
+    .no-risk p {
+        font-size: 24px;
+    }
+}
